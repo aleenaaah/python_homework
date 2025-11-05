@@ -19,4 +19,4 @@ Contains my solutions to **[Rosalind.info](https://rosalind.info/)** exercises.
 
 ##  Author
 **Aleena George**  
-GitHub: [aleenagnk-hash](https://github.com/aleenagnk-hash)
+GitHub: [aleenaaah](https://github.com/aleenagnk-hash)
